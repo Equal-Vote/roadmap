@@ -1,4 +1,4 @@
-# Untitled
+# STAR VOTE Architecture
 
 STAR VOTE 2.0 Architecture
 
